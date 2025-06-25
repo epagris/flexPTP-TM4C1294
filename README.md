@@ -1,3 +1,6 @@
+> [!WARNING]
+> **This repo has been marked obsolete, use the up-to-date [flexPTP-demo-TM4C1294](https://github.com/epagris/flexPTP-demo-TM4C1294) instead!**
+
 # flexPTP
 ## Flexible, low-resource IEEE1588 PTP slave-only implementation designed for MCU-based systems [implemented on TI TM4C1294 Connected LaunchPad]
 
